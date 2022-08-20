@@ -1,4 +1,4 @@
-### Hi, I am Armin ??
+### Hi, I am Armin
 
 I am a Software Engineer with an interest in Database Systems, Distributed System, and Machine Learning.
 
