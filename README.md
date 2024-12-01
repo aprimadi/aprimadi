@@ -1,6 +1,6 @@
 ### Hi, I am Armin
 
-a Software Engineer with interests in Database Systems, Distributed System, and Machine Learning.
+a Software Engineer with interests in Database and Distributed System.
 
 <!--
 ![Armin's github stats](https://github-readme-stats.vercel.app/api?username=aprimadi&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark)
